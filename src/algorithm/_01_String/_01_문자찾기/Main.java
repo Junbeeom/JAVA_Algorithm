@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 class Main {
     public int solution(String Text, char search) {
-        return 0;
+        return 1;
     }
 
     public static void main(String[] args) {
